@@ -45,7 +45,7 @@ dependencies {
     testImplementation('in.specmatic:junit5-support:1.2.12')
     testImplementation(
             'org.assertj:assertj-core:3.24.2',
-            'org.junit.jupiter:junit-jupiter-api:5.10.1'
+            'org.junit.jupiter:junit-jupiter-api:5.13.3'
     )
 }
 
