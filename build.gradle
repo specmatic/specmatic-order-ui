@@ -42,7 +42,7 @@ dependencies {
     implementation 'org.jetbrains.kotlin:kotlin-reflect'
     implementation 'org.springframework.boot:spring-boot-starter-actuator:3.2.0'
     implementation 'javax.validation:validation-api:2.0.1.Final'
-    testImplementation('in.specmatic:junit5-support:1.2.12')
+    testImplementation('in.specmatic:junit5-support:1.3.39')
     testImplementation(
             'org.assertj:assertj-core:3.24.2',
             'org.junit.jupiter:junit-jupiter-api:5.10.1'
